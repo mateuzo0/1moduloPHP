@@ -14,7 +14,7 @@
     if ($multiplicacao = $n1 * $n2){
         echo "A multiplicação de $n1 e $n2 é igual a $multiplicacao<br>";
     }
-    if ($potenciacao = $n1 + $n2){
+    if ($potenciacao = $n1 ** $n2){
         echo "A potenciação de $n1 a potencia de $n2 é igual a $potenciacao<br>";
     }
     if ($raizq = sqrt($n1) ){
